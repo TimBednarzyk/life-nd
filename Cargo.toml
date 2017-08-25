@@ -1,0 +1,7 @@
+[package]
+name = "life-nd"
+version = "0.1.0"
+authors = ["kuro-kun"]
+
+[dependencies]
+rand = "0.3"
